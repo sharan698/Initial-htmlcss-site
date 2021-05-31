@@ -1,0 +1,47 @@
+body{
+   
+    
+}
+/*****************NAME SECTION*******************/
+.namebg{
+    background-color: #8785a2;
+    padding:1e;
+    border:0.5mm solid;
+}
+.Dp{
+    border-radius: 100%;
+    background-color: aqua;
+}
+/*****************EDUCATION SECTION*******************/
+
+/*.firsthr{
+    text-align: center;
+}*/
+
+.edu{
+    background-color:antiquewhite;
+    padding: 2px;
+
+}
+
+/*****************SKILLS SECTION*******************/
+
+.skill{
+    background-color: antiquewhite;
+    padding: 2px;
+}
+
+
+/*****************FORM SECTION*******************/
+
+.formsec{
+    background-color: antiquewhite;
+    padding: 2px;
+}
+
+/*****************HOBBIE SECTION*******************/
+
+.hande{
+    background-color: #8785a2;
+    padding: 2px;
+}
